@@ -1,6 +1,5 @@
 # ~/.bashrc - Custom Termux configurations.
 # Written by: Mikael Todd
-#
 # Purpose: I wrote this file to uncomplicate termux, enhance productivity, and improve the shell appearance. 
 
 ########################
