@@ -26,12 +26,15 @@ I'll update this repo with further configs as I create them.
 
 You can install this `.bashrc` directly in Termux:
 
-
+``` bash 
 # Backup your current bashrc
-cp ~/.bashrc ~/.bashrc.backup 2>/dev/null || true
+
+$ cp ~/.bashrc ~/.bashrc.backup 2>/dev/null || true
 
 # Download the custom bashrc
-curl -o ~/.bashrc https://raw.githubusercontent.com/morteck/termux-configs/main/bashrc
+
+$ curl -o ~/.bashrc https://raw.githubusercontent.com/morteck/termux-configs/main/bashrc
 
 # Apply changes immediately
-source ~/.bashrc
+
+$ source ~/.bashrc
