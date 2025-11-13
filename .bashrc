@@ -6,7 +6,8 @@
 # ENVIRONMENT SETTINGS #
 ########################
 
-# Ensure bash behavior is POSIX compliant and predictable.
+# Ensured that this remained 
+POSIX compliant.
 
 set -o errexit      # Exit on command error
 set -o pipefail     # Catch pipe errors
