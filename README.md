@@ -4,7 +4,7 @@
 
 This repository is a work in progress. I've created a custom `.bashrc` for Termux to enhance productivity, simplify common tasks, and improve the shell appearance. 
 
-I'll update this repo with further configs as I create them.
+This project is designed for the [Termux App](https://github.com/termux/termux-app), the terminal emulator and Linux environment for Android.
 
 ---
 
